@@ -15,11 +15,11 @@ This project is a clean and responsive **Digital Clock** application built using
 
 ## 🛠️ Project Structure
 
-The project consists of the following core files located within the `Digital-Clock-main` directory[cite: 1]:
+The project consists of the following core files located within the `Digital-Clock-main` directory:
 
-*   **`index.html`**: Defines the semantic structure and layout of the clock[cite: 1].
-*   **`style.css`**: Contains the styling, including layout positioning, colors, and responsive media queries[cite: 1].
-*   **`script.js`**: Houses the logic for fetching the system time and dynamically updating the DOM[cite: 1].
+*   **`index.html`**: Defines the semantic structure and layout of the clock.
+*   **`style.css`**: Contains the styling, including layout positioning, colors, and responsive media queries.
+*   **`script.js`**: Houses the logic for fetching the system time and dynamically updating the DOM.
 
 
 
@@ -46,5 +46,5 @@ To run this project locally, simply follow these steps:
     cd Digital-Clock-main
     ```
 3.  **Open the project**:
-    Open `index.html` in any modern web browser to view the clock[cite: 1].
+    Open `index.html` in any modern web browser to view the clock.
 ```
